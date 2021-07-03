@@ -1,0 +1,17 @@
+base:
+  project: Delloite-project
+  random_state: 42
+  target_col: log_price
+
+data_source:
+  s3_storage: data_given/CaseStudy_20190517.xslx
+
+load_data:
+  raw_dataset_excel: data/raw/CaseStudy_20190517.xslx
+
+split_data:
+  train_path: data/processed/train_data.xlsx
+  train_path: data/processed/test_data.xlsx
+  test_size: 0.2
+
+model_dirs: saved_models

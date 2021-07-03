@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efa458c-7a41-4b8d-9fa0-a3df2b04a844" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dvc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/confusion.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/confusion_normalized.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/default.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/linear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/scatter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/smooth.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvcignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/params.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

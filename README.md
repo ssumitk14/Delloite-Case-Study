@@ -1,36 +1,47 @@
 Create a new Environment:
 
-'''bash
+```bash
 conda create -n DelloiteCaseStudy
-'''
+```
 
 Activate Environment:
 
-'''bash
+```bash
 conda activate DelloiteCaseStudy
-'''
+```
 
 Install requirement file:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 Initialize git:
 
-'''bash
+```bash
 git init
-'''
+````
 
 
 Initialize dvc:
 
-'''bash
+```bash
 dvc init
-'''
+```
 
 Tracking data:
-'''bash
+```bash
 dvc add data_given/CaseStudy_20190517.xslx
-'''
+```
+
+First Commit:
+
+```bash
+git add .
+git commit -m "First Commit"
+git remote add origin https://githib.com/ssumitk14/Delloite-Case-Stdy.git
+git branch -M main
+git push origin main
+```
+
 
